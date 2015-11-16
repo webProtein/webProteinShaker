@@ -1,2 +1,4 @@
 # webProteinShaker
-The goal of this project is to create a web interface for Peptide Shaker
+The goal of this project is to create a web interface for Peptide Shaker (original link at http://compomics.github.io/projects/peptide-shaker.html)
+
+Initial goal is to find a widget library for the project.
